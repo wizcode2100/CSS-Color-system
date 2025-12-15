@@ -1,0 +1,14 @@
+
+
+
+.greetings{
+    color: #F85606;
+    background-color: rgb(23, 65, 89);
+}
+
+.box{
+    height: 200px;
+    width: 300px;
+    border: 1px solid green;
+    background: #599b2a;
+}

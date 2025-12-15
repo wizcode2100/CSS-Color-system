@@ -1,0 +1,13 @@
+
+
+
+==========CSS Color==========
+
+1. Color By Name (red, green, blue)
+2. Color By Hex Code (#45A600)
+3. Color By RGB=> Red Green Blue (34, 45, 76) => 0-255
+4. Color By RGBA=> Red Green Blue Alpha (35, 64, 234 0.5) => 0-255 => 0-1
+5. Liner/Radial Gradiant Color
+
+
+0 1 2 3 4 5 6 7 8 9 A B C D E F
